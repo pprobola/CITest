@@ -352,7 +352,7 @@
 				INFOPLIST_FILE = CITest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "56ed727f-5187-4da1-b793-7ee79dcbc1b8";
+				PROVISIONING_PROFILE = "da99eb54-ba0b-4f1d-9a69-40e749f7a29c";
 			};
 			name = Release;
 		};
@@ -409,6 +409,7 @@
 				63A375A21C3D0FBF00D8853C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		63A375A31C3D0FBF00D8853C /* Build configuration list for PBXNativeTarget "CITestTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +418,7 @@
 				63A375A51C3D0FBF00D8853C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
